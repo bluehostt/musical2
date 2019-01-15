@@ -1,0 +1,6 @@
+﻿token= NTMxNDc3NTc5NjM5ODE2MTkz.DxOgxw.zjiUkwMT3t08eGt0WKOTQ--gaaQ
+owner= 333140974865874944 
+prefix= 1
+game= Type 1help
+stayinchannel=true
+songinstatus=false
